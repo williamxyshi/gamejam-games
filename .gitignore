@@ -61,3 +61,4 @@ crashlytics-build.properties
 # Our additions
 UnityLockFile
 SourceAssetDB
+.il2cpp_cache/
