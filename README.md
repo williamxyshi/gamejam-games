@@ -1,4 +1,4 @@
-# gamejams
+# BOULABO team jams
 
 collection of games made for various game jams
 
