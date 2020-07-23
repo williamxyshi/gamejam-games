@@ -2,7 +2,7 @@
 
 collection of games made for various game jams
 
-catch us next at: [Unexpected Jam 2020](https://itch.io/jam/unexpectedjam), [Ludem Dare 47](https://ldjam.com/)
+catch us next at: [Brackeys Game Jam 2020.2](https://itch.io/jam/brackeys-4) [Unexpected Jam 2020](https://itch.io/jam/unexpectedjam), [Ludem Dare 47](https://ldjam.com/)
 
 ### [Agent Mittens: Fish Heist](https://williamxyshi.itch.io/agentmittensfishheist) 
   - Submission to [Game Makers Tool Kit Game Jam 2020](https://itch.io/jam/gmtk-2020)
